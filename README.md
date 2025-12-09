@@ -31,8 +31,8 @@ The system uses **Transfer Learning** to leverage a pre-trained model for featur
 ## 📥 Installation Steps
 1.  **Clone the repository**:
     ```
-    git clone <repository-url>
-    cd <repository-folder>
+    git clone https://github.com/aiml-developer/ASL-Detection
+    cd ASL-Detection
     ```
 
 2.  **Install Dependencies**:
