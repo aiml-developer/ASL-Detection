@@ -81,5 +81,8 @@ The **Streamlit UI** provides a simple interface:
 3.  **Analyze**: Clicking "Analyze Sign" passes the image through the model.
 4.  **Result**: Displays the predicted character (e.g., "**A**") and the confidence level (e.g., "98.5%").
 
+<video src="https://github.com/user-attachments/assets/f7c731f5-5794-487d-a72a-ef9453c6a662" controls width="700"></video>
+
+
 ## 📝 Conclusion
 This project demonstrates an effective application of **Computer Vision** and **Deep Learning** for accessibility technology. By using MobileNetV2, the model remains lightweight enough for deployment on edge devices or web interfaces while maintaining high precision in recognizing ASL gestures.
